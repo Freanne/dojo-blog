@@ -1,0 +1,17 @@
+{
+    "blogs" :[
+        {
+            "title" :"My first article",
+            "body":" hello world, how are you ????",
+            "author": "Anna",
+            "id" :1
+        },
+
+        {
+            "title" : "Medecine and informatique !!!",
+            "body": " Robotisation médicales",
+            "author":" Maria",
+            "id" : 2
+        }
+    ]
+}
